@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://casper-pixel1999.github.io/WarThunder/sitemap.xml
